@@ -20,6 +20,11 @@ Add the folder to your PATH
 
 	C:\Users\user\AppData\Roaming>setx PATH "%PATH%;%APPDATA%\linux_alias"
 
-You can also do it system-wide
+You can also add it system-wide
 
 	C:\Users\user\AppData\Roaming>setx /M PATH "%PATH%;%APPDATA%\linux_alias"
+
+
+## Notes
+
+- nano will only work if you have bash on your system.
