@@ -2,7 +2,7 @@
 
 I created this project because I was often making mistakes by switching between cmd and linux terminal.
 
-This project aims to let you run linux commands on cmd.
+This project aims to let you run cmd commands with their equivalent linux name.
 
 It's pretty much only usefull for cmd since PowerShell already support a lot of linux aliases by default.
 
