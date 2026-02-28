@@ -16,7 +16,7 @@ Clone the project somewhere in your system
 
 Add the folder to your PATH
 
-**⚠ Be careful with those commands it can broke your system ⚠**
+**⚠ Be careful with those commands they can break your system ⚠**
 
 	C:\Users\user\AppData\Roaming>setx PATH "%PATH%;%APPDATA%\linux_alias"
 
